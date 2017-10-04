@@ -1,0 +1,11 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "LIRI Assignment",
+  "main": "lirimain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Frew",
+  "license": "ISC"
+}
